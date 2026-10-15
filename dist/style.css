@@ -7,3 +7,5 @@
 /* Let the original gold logo sit directly on the header. */
 .brand img{background:transparent;padding:0;border-radius:0;mix-blend-mode:screen;object-fit:contain}
 footer img{background:transparent;mix-blend-mode:screen}
+
+.company-team article{display:flex;align-items:center;justify-content:center;gap:16px}.company-team article>span{margin:0;flex-shrink:0}.company-team h3{margin:0}@media(max-width:700px){.company-team article{justify-content:flex-start}}
